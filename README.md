@@ -21,4 +21,4 @@ I'll additionaly explain you what specific writing rules I used:
 5. Ticket participants (asidnee, reporter, additional participants)
 6. Ticket priority
 7. Possible attachments
-![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/bug_report_1.png)
+![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/Bug_report_1.png)
