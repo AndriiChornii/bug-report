@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Bug%20Report-0C3B72?style=for-the-badge&logo=Testomatio"/>
 </p>
 
+<p align="center">
 This is repository where I will attach my example of bug reports
 
 In the <a href="https://walkme.dog">Walkme App</a> project, I took a part as QA Engineer, and of course, there were bugs during the development process.
@@ -9,7 +10,7 @@ In the <a href="https://walkme.dog">Walkme App</a> project, I took a part as QA 
 All next examples will be provided as screenshots from the Trello platform that I used for creating a bug reports
 
 During writing bug reports I try to follow the rule that a bug report in its summary should answer three main questions: "What?", "Where?", and "When."
-
+</p>
 
 #### Bug report example №1
 
