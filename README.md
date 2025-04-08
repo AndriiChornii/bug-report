@@ -22,3 +22,12 @@ I'll additionaly explain you what specific writing rules I used:
 6. Ticket priority
 7. Possible attachments
 ![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/Bug_report_1.png)
+
+#### Bug report example №2
+One more bug report, wrote by the same rules
+![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/Bug_report_2.png)
+
+#### Bug report example №3
+Sometimes, there are many bugs in one module (as it wrote in the 7 main testing rules). In this case, I had not enough time to create 6 separated bug reports, and I and my team agreed this bug report style
+![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/Bug_report_3.png)
+![Screenshot 1](https://github.com/AndriiChornii/bug-report/blob/main/assets/Bug_report_3_1.png)
